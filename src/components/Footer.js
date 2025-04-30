@@ -20,8 +20,8 @@ const Footer = () => {
           <a href="#"> <FaPhone /> +91-9121345262 </a>
           <a href="#"> <FaPhone /> +91-9676336741 </a>
           <a href="#"> <FaEnvelope /> EliteEventplanners@gmail.com </a>
-          <a href="#"> <FaEnvelope /> viswavardhankandula@gmail.com </a>
-          <a href="#"><FaMapMarkerAlt /> Andhra Pradesh, Gokavarm, India - 533286</a>
+          <a href="#"> <FaEnvelope /> saithota9563@gmail.com </a>
+          <a href="#"><FaMapMarkerAlt /> Andhra Pradesh, Tanuku, India - 534211</a>
         </div>
 
         <div className="box">
